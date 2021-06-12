@@ -13,3 +13,11 @@ Docker image with tools for Kubernets administration and Debug.
 To use this image in Docker, Podman or Kubernetes
 
 > natandias1/kube-tools:TAG
+
+## Kubernetes
+
+To use in kubernetes. Use YAML file.
+
+> kubectl apply -f ktools.yaml
+>
+> kubectl attach -n ktools -it ktools
