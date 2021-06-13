@@ -1,3 +1,5 @@
+https://dev.azure.com/natan-dias/Kube-tools/_apis/build/status/Kube-tools-CI
+
 # Kube Tools
 
 Docker image with tools for Kubernets administration and Debug.
