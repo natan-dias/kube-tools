@@ -1,4 +1,4 @@
-https://dev.azure.com/natan-dias/Kube-tools/_apis/build/status/Kube-tools-CI
+[![Build status](https://dev.azure.com/natan-dias/Kube-tools/_apis/build/status/Kube-tools-CI)](https://dev.azure.com/natan-dias/Kube-tools/_build/latest?definitionId=8)-CI
 
 # Kube Tools
 
