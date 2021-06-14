@@ -4,7 +4,7 @@
 
 Docker image with tools for Kubernets administration and Debug.
 
-## version 0.2 features:
+## Latest version features:
 
 + Kubectl CLI
 + httping
@@ -13,13 +13,15 @@ Docker image with tools for Kubernets administration and Debug.
 
 ## Docker Hub Repo
 
-To use this image in Docker, Podman or Kubernetes
+To use this image in Docker or Podman:
 
-> natandias1/kube-tools:TAG
+> docker pull natandias1/kube-tools:TAG (you can use "latest" TAG)
+>
+> podman pull natandias1/kube-tools:TAG (you can use "latest" TAG) 
 
 ## Kubernetes
 
-To use in kubernetes. Use YAML file.
+To use in kubernetes: Use YAML file!
 
 > kubectl apply -f ktools.yaml
 >
