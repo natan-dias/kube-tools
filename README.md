@@ -4,11 +4,12 @@
 
 Docker image with tools for Kubernets administration and Debug.
 
-## version 0.1 features:
+## version 0.2 features:
 
 + Kubectl CLI
 + httping
 + nmap
++ jq (JSON Processor)
 
 ## Docker Hub Repo
 
