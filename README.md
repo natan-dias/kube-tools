@@ -10,6 +10,7 @@ Docker image with tools for Kubernets administration and Debug.
 + httping
 + nmap
 + jq (JSON Processor)
++ httpd-tools
 
 ## Docker Hub Repo
 
