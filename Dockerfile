@@ -8,5 +8,5 @@ RUN install -o root -g root -m 0755 kubectl /usr/local/bin/kubectl
 RUN dnf install -y https://dl.fedoraproject.org/pub/epel/epel-release-latest-8.noarch.rpm 
 RUN dnf install -y httping \
 	nmap \
-	jq
-
+	jq \
+	httpd-tools
